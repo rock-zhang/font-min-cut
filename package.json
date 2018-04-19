@@ -1,0 +1,15 @@
+{
+  "name": "font-min-cut",
+  "version": "1.0.0",
+  "description": "精简字体",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "font-spider": "^1.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
